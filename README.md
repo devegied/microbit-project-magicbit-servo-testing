@@ -1,8 +1,8 @@
 # Testuojame servo variklius su Magic:Bit V3.0
 
-## Naudojimas
+## Magic:Bit V3.0 naudojimas MakeCode projektuose
 
-1. micro:bit [makecode](https://makecode.microbit.org/) projekte paspauskite ant **Extensions** meniu esančio po dantračio piktogramą (dešiniame viršutiniame kampe)
+1. micro:bit [MakeCode](https://makecode.microbit.org/) projekte paspausk ant **Extensions** meniu esančio po dantračio piktogramą (<i class="icon setting large"></i> dešiniame viršutiniame kampe)
 2. Ieškokite teksto `https://github.com/emakefun/pxt-magicbit`
 3. Surastą plėtinį paspaudus pele jis bus įtrauktas į projektą
 
@@ -31,33 +31,15 @@ Paspaudus mygtuką B variklio kampas padidinamas vienu laipsniu
 Paspaudus abu mygtukus (A+B) variklis nustatomas į pradinę poziciją (kampas 0) ir vidutiniu greičiu keičia poziciją iki galutinės (kampas 180), ir ją pasiekęs vėl iki pradinės  (kampas 0)
 
 
-> Open this page at [https://devegied.github.io/microbit-project-magicbit-servo-testing/](https://devegied.github.io/microbit-project-magicbit-servo-testing/)
 
-## Use as Extension
+## Išbandyk pats
 
-This repository can be added as an **extension** in MakeCode.
+Kad išbandytum šį projektą su MakeCode
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/devegied/microbit-project-magicbit-servo-testing** and import
-
-## Edit this project ![Build status badge](https://github.com/devegied/microbit-project-magicbit-servo-testing/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/devegied/microbit-project-magicbit-servo-testing** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/devegied/microbit-project-magicbit-servo-testing/raw/master/.github/makecode/blocks.png)
+* Atidaryk [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* paspausk ant **Import** tuomet ant **Import URL**
+* įklijuok **https://github.com/devegied/microbit-project-magicbit-servo-testing** ir spausk **Import**
 
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
