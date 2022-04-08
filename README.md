@@ -38,7 +38,7 @@ Kad išbandytum šį projektą su MakeCode
 
 * Atidaryk [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * paspausk ant **Import** tuomet ant **Import URL**
-* įklijuok **https://github.com/devegied/microbit-project-magicbit-servo-testing** ir spausk **Import**
+* įklijuok **https://github.com/devegied/microbit-project-magicbit-servo-testing** ir spausk **Go ahead!**
 
 #### Metadata (used for search, rendering)
 
