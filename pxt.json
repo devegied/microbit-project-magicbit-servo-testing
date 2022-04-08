@@ -1,0 +1,25 @@
+{
+    "name": "magic:bit-servo-testing",
+    "description": "Servo variklių testavimas su Magic:Bit",
+    "dependencies": {
+        "core": "*",
+        "magicbit": "github:emakefun/pxt-magicbit#ee1b367329051c8b117ca4deb5f3a467e8d12720",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
