@@ -22,11 +22,15 @@ magicbit.Servospeed(magicbit.Servos.S1, pradinisKampas, galutinisKampas, greitis
 
 ## Pateiktas pavyzdys
 
+![Pateiktas pavyzdys](https://github.com/devegied/microbit-project-magicbit-servo-testing/raw/master/.github/makecode/blocks.png)
+
 Pateiktame pavyzdyje prie S1 prijungtas variklis nustatomas į vidurinę poziciją (90 laipsnių)
 
 Paspaudus mygtuką A variklio kampas sumažinamas vienu laipsniu
 
 Paspaudus mygtuką B variklio kampas padidinamas vienu laipsniu
+
+Visą laiką LED ekrane yra rodomas kampas į kurį nustatoma variklio pozicija
 
 Paspaudus abu mygtukus (A+B) variklis nustatomas į pradinę poziciją (kampas 0) ir vidutiniu greičiu keičia poziciją iki galutinės (kampas 180), ir ją pasiekęs vėl iki pradinės  (kampas 0)
 
@@ -44,4 +48,4 @@ Kad išbandytum šį projektą su MakeCode
 
 * for PXT/microbit
 
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+<script src="https://devegied.github.io/makecode-devegied-gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
